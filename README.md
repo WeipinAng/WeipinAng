@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Weipin Ang</h1>
-<h3 align="center">Computer Science (Artificial Intelligence) student with proficiency in full-stack web development and web design, determined to transition into a seasoned data scientist.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=WeipinAng&label=Profile%20views&color=0e75b6&style=flat" alt="WeipinAng" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=WeipinAng&theme=juicyfresh" alt="WeipinAng" /></a> </p>
