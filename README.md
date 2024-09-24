@@ -15,23 +15,38 @@
 <a href="https://www.linkedin.com/in/weipinang/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/weipinang/" height="30" width="40" /></a><a href="https://www.instagram.com/weipin_ang/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="https://www.instagram.com/weipin_ang/" height="30" width="40" /></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/sass-original.svg" alt="Sass" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/babeljs-icon.svg" alt="Babeljs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/php-original.svg" alt="PHP" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" alt="Java" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/sqlite-icon.svg" alt="Sqlite" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="CPP" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/figma-icon.svg" alt="Figma" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/gnu_bash-icon.svg" alt="Gnu Bash" width="40" height="40"/>
-</p>
+<div align="left">
+<img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=babel" height="40" alt="babel logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+<img width="12" />
+<img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
+<img width="12" />
+</div>
 
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeipinAng&layout=compact&theme=ayu-mirage" alt=WeipinAng />
