@@ -17,35 +17,35 @@
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
 <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-<img width="12" />
+<img width="6" />
 <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-<img width="12" />
+<img width="6" />
 <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
-<img width="12" />
+<img width="6" />
 <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-<img width="12" />
+<img width="6" />
 <img src="https://skillicons.dev/icons?i=babel" height="40" alt="babel logo"  />
-<img width="12" />
+<img width="6" />
 <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
-<img width="12" />
+<img width="6" />
 <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-<img width="12" />
+<img width="6" />
 <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-<img width="12" />
+<img width="6" />
 <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-<img width="12" />
+<img width="6" />
 <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
-<img width="12" />
+<img width="6" />
 <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-<img width="12" />
+<img width="6" />
 <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
-<img width="12" />
+<img width="6" />
 <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-<img width="12" />
+<img width="6" />
 <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-<img width="12" />
+<img width="6" />
 <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
-<img width="12" />
+<img width="6" />
 </div>
 
 <h3 align="left">Stars</h3>
