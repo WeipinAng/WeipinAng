@@ -26,6 +26,8 @@
 <img width="6" />
 <img src="https://skillicons.dev/icons?i=babel" height="40" alt="babel logo"  />
 <img width="6" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+<img width="6" />
 <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
 <img width="6" />
 <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
