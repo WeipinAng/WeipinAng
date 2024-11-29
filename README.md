@@ -52,6 +52,10 @@
 <img width="6" />
 <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
 <img width="6" />
+<img src="https://cdn.simpleicons.org/netlify/00C7B7" height="40" alt="netlify logo"  />
+<img width="6" />
+<img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
+<img width="6" />
 <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
 <img width="6" />
 <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
