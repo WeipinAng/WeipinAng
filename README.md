@@ -25,6 +25,8 @@
 <img width="6" />
 <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
 <img width="6" />
+<img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
+<img width="6" />
 <img src="https://skillicons.dev/icons?i=babel" height="40" alt="babel logo"  />
 <img width="6" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
