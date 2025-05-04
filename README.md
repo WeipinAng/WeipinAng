@@ -26,19 +26,31 @@
 <img width="6" />
 <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
 <img width="6" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+<img width="6" />
+<img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
+<img width="6" />
 <img src="https://skillicons.dev/icons?i=babel" height="40" alt="babel logo"  />
 <img width="6" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="40" alt="eslint logo"  />
 <img width="6" />
 <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
 <img width="6" />
-<img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+<img width="6" />
+<img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
+<img width="6" />
+<img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
+<img width="6" />
+<img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
+<img width="6" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 <img width="6" />
 <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
 <img width="6" />
-<img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+<img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
 <img width="6" />
-<img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
+<img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
 <img width="6" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
 <img width="6" />
@@ -48,19 +60,13 @@
 <img width="6" />
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/logo-mark-lightbg.svg" alt="SeaBorn" width="40" height="40"/>
 <img width="6" />
-<img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-<img width="6" />
-<img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
-<img width="6" />
 <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
 <img width="6" />
 <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="40" alt="netlify logo"  />
 <img width="6" />
-<img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
+<img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
 <img width="6" />
 <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-<img width="6" />
-<img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
 <img width="6" />
 </div>
 
