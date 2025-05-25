@@ -2,13 +2,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=WeipinAng&theme=juicyfresh" alt="WeipinAng" /></a> </p>
 
-<div>
-<a href="https://www.linkedin.com/in/weipinang/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://www.instagram.com/weipin_ang/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:weipin0508@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Tech Stack & Tools:</h3>
 <div align="left">
 <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
 <img width="6" />
