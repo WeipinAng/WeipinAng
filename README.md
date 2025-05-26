@@ -62,6 +62,8 @@
 <img width="6" />
 <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
 <img width="6" />
+<img src="https://profilinator.rishav.dev/skills-assets/tableau.svg" height="40" alt="tableau logo" />
+<img width="6" />
 </div>
 
 <br />
